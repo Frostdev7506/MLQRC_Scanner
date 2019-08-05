@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252785977440",
+    "firebase_url": "https://mlqrc-scanner.firebaseio.com",
+    "project_id": "mlqrc-scanner",
+    "storage_bucket": "mlqrc-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252785977440:android:7d8dae78c4c98466",
+        "android_client_info": {
+          "package_name": "com.akatski.mlqrcscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252785977440-hmfappib07fr2lbvjn5ac9pfi6n8p0ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akatski.mlqrcscanner",
+            "certificate_hash": "477359034649cedaf06c50483e7cfc4588c4e173"
+          }
+        },
+        {
+          "client_id": "252785977440-h3nt32dv8g1c9i1j9drboqc4booifn1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzthHZ-zh9bYb3KAiNqdjqHqsirTOZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252785977440-h3nt32dv8g1c9i1j9drboqc4booifn1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
